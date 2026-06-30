@@ -1,6 +1,6 @@
 # particle-identification-ml
 ML models for improving particle identification in experiments conducted using CLAS12 detector  
-Abstract:**
+Abstract:
 
 **Machine Learning for Particle Identification in CLAS12: Random Forest Approach for Exclusive Reactions**
 
